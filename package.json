@@ -1,0 +1,25 @@
+{
+  "name": "oauthcl",
+  "version": "0.0.0",
+  "description": "OAuth Command Line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bng5/oauthcl"
+  },
+  "keywords": [
+    "oauth"
+  ],
+  "author": "Pablo Bangueses",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bng5/oauthcl/issues"
+  },
+  "homepage": "https://github.com/bng5/oauthcl",
+  "dependencies": {
+    "oauth": "^0.9.12"
+  }
+}
